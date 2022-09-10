@@ -6,6 +6,7 @@ s3/node_modules
 node_modules/
 s3/*.json
 hello/*.json
+terraform/.terraform/*
 
 # misc
 .DS_Store
